@@ -9,7 +9,7 @@ _28 group website project_
 
 This project is for educational porpuses only.
 
-Site published at
+Site published at https://mantasram.github.io/24-to-do/
 
 Design: improvized 🎅
 
