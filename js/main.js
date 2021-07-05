@@ -1,3 +1,4 @@
-import { Todo } from "./components/Todo";
+  
+import { Todo } from "./components/Todo.js";
 
-new Todo();
+new Todo('barsukas_todos');
